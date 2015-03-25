@@ -1,0 +1,17 @@
+<Modules>
+    <Module path="C:\Program Files\OpenNI\bin64\nimRecorder64.dll" />
+    <Module path="C:\Program Files\OpenNI\bin64\nimMockNodes64.dll" />
+    <Module path="C:\Program Files\OpenNI\bin64\nimCodecs64.dll" />
+    <Module path="C:\Program Files\PrimeSense\Sensor\Bin64\XnDeviceFile64.dll" />
+    <Module path="C:\Program Files\PrimeSense\Sensor\Bin64\XnDeviceSensorV264.dll" configDir="C:\Program Files\PrimeSense\Sensor\Data" />
+    <Module path="C:\Program Files\PrimeSense\NITE\Features_1_3_1\Bin64\XnVFeatures64_1_3_1.dll" configDir="C:\Program Files\PrimeSense\NITE\Features_1_3_1\Data" />
+    <Module path="C:\Program Files\PrimeSense\NITE\Features_1_4_1\Bin64\XnVFeatures64_1_4_1.dll" configDir="C:\Program Files\PrimeSense\NITE\Features_1_4_1\Data" />
+    <Module path="C:\Program Files\PrimeSense\NITE\Features_1_4_2\Bin64\XnVFeatures64_1_4_2.dll" configDir="C:\Program Files\PrimeSense\NITE\Features_1_4_2\Data" />
+    <Module path="C:\Program Files\PrimeSense\NITE\Features_1_5_2\Bin64\XnVFeatures64_1_5_2.dll" configDir="C:\Program Files\PrimeSense\NITE\Features_1_5_2\Data" />
+    <Module path="C:\Program Files\PrimeSense\NITE\Hands_1_3_1\Bin64\XnVHandGenerator64_1_3_1.dll" configDir="C:\Program Files\PrimeSense\NITE\Hands_1_3_1\Data" />
+    <Module path="C:\Program Files\PrimeSense\NITE\Hands_1_4_1\Bin64\XnVHandGenerator64_1_4_1.dll" configDir="C:\Program Files\PrimeSense\NITE\Hands_1_4_1\Data" />
+    <Module path="C:\Program Files\PrimeSense\NITE\Hands_1_4_2\Bin64\XnVHandGenerator64_1_4_2.dll" configDir="C:\Program Files\PrimeSense\NITE\Hands_1_4_2\Data" />
+    <Module path="C:\Program Files\PrimeSense\NITE\Hands_1_5_2\Bin64\XnVHandGenerator64_1_5_2.dll" configDir="C:\Program Files\PrimeSense\NITE\Hands_1_5_2\Data" />
+    <Module path="C:\Program Files\PrimeSense\SensorKinect\Bin64\XnDeviceFile64.dll" />
+    <Module path="C:\Program Files\PrimeSense\SensorKinect\Bin64\XnDeviceSensorV2KM64.dll" configDir="C:\Program Files\PrimeSense\SensorKinect\Data" />
+</Modules>
